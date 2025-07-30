@@ -1,8 +1,0 @@
-C:\Users\Trainer3\source\repos\tests\EmployeeDB\EmployeeDB\bin\Debug\EmployeeDB.exe.config
-C:\Users\Trainer3\source\repos\tests\EmployeeDB\EmployeeDB\bin\Debug\EmployeeDB.exe
-C:\Users\Trainer3\source\repos\tests\EmployeeDB\EmployeeDB\bin\Debug\EmployeeDB.pdb
-C:\Users\Trainer3\source\repos\tests\EmployeeDB\EmployeeDB\obj\Debug\EmployeeDB.csproj.AssemblyReference.cache
-C:\Users\Trainer3\source\repos\tests\EmployeeDB\EmployeeDB\obj\Debug\EmployeeDB.csproj.CoreCompileInputs.cache
-C:\Users\Trainer3\source\repos\tests\EmployeeDB\EmployeeDB\obj\Debug\EmployeeDB.exe
-C:\Users\Trainer3\source\repos\tests\EmployeeDB\EmployeeDB\obj\Debug\EmployeeDB.pdb
-C:\Users\Trainer3\source\repos\tests\EmployeeDB\EmployeeDB\obj\Debug\EmployeeDB.exe.config
